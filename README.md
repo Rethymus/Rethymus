@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethymus&show_icons=true&layout=donut&bg_color=00000000&langs_count=8&card_width=320" />
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rethymus&show_icons=true&locale=en&layout=compact" alt="rethymus" /></p>
+![Rethymus's GitHub stats](https://github-readme-stats-gamma-six-57.vercel.app/api?username=rethymus&show_icons=true&bg_color=00000000)
+
+![Tl](https://github-readme-stats.vercel.app/api/top-langs/?username=rethymus&show_icons=true&layout=donut&bg_color=00000000)
 
 
