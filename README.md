@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rethymus&show_icons=true&locale=en" alt="rethymus" /></p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rethymus&show_icons=true&layout=donut&bg_color=00000000&langs_count=8&card_width=320" />
+</a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rethymus&show_icons=true&locale=en&layout=compact" alt="rethymus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rethymus&show_icons=true&locale=en" alt="rethymus" /></p>
 
