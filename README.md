@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rethymus</h1>
+<h1 align="center">Hi 👋, I'm Re</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rethymus&count_private=true&show_icons=true&locale=en" alt="rethymus" /></p>
